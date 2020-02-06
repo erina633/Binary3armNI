@@ -25,21 +25,25 @@ The codes are provided to generate sample size and type I error for both Frequen
 We give brief description of the R files below:
 
 1. freq_samplesizecode.R
+
 This function calculates the Frequentist sample size for a given value of theta, allocation, alpha, parP, parR, and parE.
 
 Output: Minimum sample size of the arm P satisfying power>=1-beta
 
 2. approxbayes_samplesizecode.R
+
 This function calculates the sample size corresponding to approximate Bayesian method for a given value of theta, allocation, alpha, parP, parR, and parE.
 
 Output: Minimum sample size of the arm P satisfying power>=1-beta
 
 3. exactbayes_samplesizecode.R
+
 This function calculates the sample size corresponding to exact Bayesian method for a given value of theta, allocation, alpha, parP, parR, and parE.
 
 Output: Minimum sample size of the arm P satisfying power>=1-beta
 
 4. type1error_exactbayes.R
+
 This function calculates the estimated type I error under exact Bayesian approach for different values of theta, calculated sample size, allocation, and parE.
 
 Output: Estimated type I error for exact Bayesian approach
