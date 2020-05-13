@@ -1,4 +1,4 @@
-# Binary3armNI: R codes for "Testing for Non-inferiority in Three-arm Trials with Binary Outcome: Novel Frequentist and Bayesian Approaches"
+# Binary3armNI: R codes for "A More Powerful Test for Three-Arm Non-Inferiority via Risk Difference: Frequentist and Bayesian Approaches"
 
 This research is supported by PCORI contract number ME-1409-21410, PI: Samiran Ghosh
 
